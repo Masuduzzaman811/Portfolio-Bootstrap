@@ -59,11 +59,11 @@ body {
   background-repeat: no-repeat;
   background-position: right;
   min-height: 45rem;
-  -webkit-border-radius:  5rem 0 0 0;
-  -moz-border-radius:  5rem 0 0 0;
-  -ms-border-radius:  5rem 0 0 0;
-  -o-border-radius:  5rem 0 0 0;
-  border-radius:  5rem 0 0 0;
+  -webkit-border-radius: 5rem 0 0 0;
+  -moz-border-radius: 5rem 0 0 0;
+  -ms-border-radius: 5rem 0 0 0;
+  -o-border-radius: 5rem 0 0 0;
+  border-radius: 5rem 0 0 0;
 }
 
 .contact-container {
