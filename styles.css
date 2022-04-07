@@ -43,3 +43,29 @@ body {
 .lang-clr {
   background-color: #f7f7f9;
 }
+
+.about-sec {
+  background-color: #fff;
+  -webkit-border-radius: 0 5rem 0 0;
+  -moz-border-radius: 0 5rem 0 0;
+  -ms-border-radius: 0 5rem 0 0;
+  -o-border-radius: 0 5rem 0 0;
+  border-radius: 0 5rem 0 0;
+}
+
+.contact {
+  background-color: #6070ff;
+  background-image: url("Images/bg-contact-me/contact-me-shapes.svg");
+  background-repeat: no-repeat;
+  background-position: right;
+  min-height: 45rem;
+  -webkit-border-radius:  5rem 0 0 0;
+  -moz-border-radius:  5rem 0 0 0;
+  -ms-border-radius:  5rem 0 0 0;
+  -o-border-radius:  5rem 0 0 0;
+  border-radius:  5rem 0 0 0;
+}
+
+.contact-container {
+  max-width: 40%;
+}
