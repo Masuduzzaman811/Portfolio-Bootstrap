@@ -1,0 +1,45 @@
+.first-page {
+  background-color: #fff;
+  background-image: url("Images/desktop-bg/Header-bg.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 45rem;
+  -webkit-border-radius: 0 0 0 5rem;
+  -moz-border-radius: 0 0 0 5rem;
+  -ms-border-radius: 0 0 0 5rem;
+  -o-border-radius: 0 0 0 5rem;
+  border-radius: 0 0 0 5rem;
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+.container {
+  background-color: #fff;
+}
+
+.nav-container {
+  background-color: #fff;
+}
+
+.empty-container {
+  min-height: 10rem;
+}
+
+.para {
+  max-width: 70%;
+}
+
+.card-container {
+  background-color: #e5e5e5;
+}
+
+.card-bg {
+  background-color: #fff;
+}
+
+.lang-clr {
+  background-color: #f7f7f9;
+}

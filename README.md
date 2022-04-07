@@ -1,17 +1,18 @@
-# Portfolio
+# Portfolio-Bootstrap
 
-> It's my portfolio page. This project is under construction. 
+> It's my portfolio page. This project is under construction. This project is being developed with Bootstrap5 framework. 
 
 
 ## Built With
 
 - HTML, CSS
+- Bootstrap 5
 - Git, GitHub
 
 
 ### About "Portfolio"
 
-Currently it has a home page only. It's the mobile version. This portfolio will develop gradually with my microverse journey. All of my coding works and experiences will be stored here. Stay tuned!!!
+Currently it has a home page, project pages, about and contact page. It's the desktop version. This portfolio will develop gradually with my microverse journey. All of my coding works and experiences will be stored here. Stay tuned!!!
 
 
 ## Live Demo
@@ -21,12 +22,13 @@ Currently it has a home page only. It's the mobile version. This portfolio will 
 
 ### Setup
 
-- git clone https://github.com/Masuduzzaman811/Portfolio.git
+- git clone `https://github.com/Masuduzzaman811/Portfolio-Bootstrap.git`
 - Edit the project source code on any IDE you prefer!
 - Don't forget to render it on a broewser!!!
 
 ### Framework and Package manager
 
+- Bootstrap 5
 - node.js
 - npm
 
@@ -46,6 +48,10 @@ Check: [HTML&CSS linter installation guide](https://github.com/microverseinc/lin
 ## Authors
 
 👤 **Md Masuduzzaman**
+
+## Contributor
+
+👤 **karamaga henry**
 
 Feel free to contact me on:
 
